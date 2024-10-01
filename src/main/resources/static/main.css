@@ -692,6 +692,10 @@ video {
   height: 100%;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .w-10 {
   width: 2.5rem;
 }
